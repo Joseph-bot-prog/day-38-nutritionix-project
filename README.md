@@ -1,6 +1,6 @@
 Day-38
 
-Today's topics was Exercise tracking with google sheets in python, which was wonderfully explained by Angela Yu.
+Today's topic was Exercise tracking with Google Sheets in python, which was wonderfully explained by Angela Yu.
 
 What did I use?
 
@@ -11,12 +11,12 @@ Sheety used to integrate google sheets with our application.
 
 Project of the day
 
-Exercise Tracker using the above mentioned topics. You can checkout my code. You can also clone and run on local machine using an IDE.
+Exercise Tracker using the above-mentioned topics. You can check out my code. You can also clone and run on local machine using an IDE.
 
-ℹ️ You will need to enter your own API KEY/ Token in keys.py file
+ℹ️ You will need to enter your own API KEY/ Token in main.py file
 
 Conclusion
 
-To conclude, I would thank my instructor for being such a wonderful teacher for coming up with a beautiful course. I would like to thank MYSELF for being self-motivated throughout the lecture.
+To conclude, I would thank my instructor for being such a wonderful teacher and for coming up with a beautiful course. I would like to thank MYSELF for being self-motivated throughout the lecture.
 
 Date - Oct 31, 2023
